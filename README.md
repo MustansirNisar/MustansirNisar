@@ -18,8 +18,8 @@
 
 ### 📈 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=MustansirNisar&show_icons=true&theme=radical" width="60%" alt="GitHub Stats" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustansirNisar&layout=compact&theme=radical" width="60%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MustansirNisar&show_icons=true&theme=radical" width="40%" alt="GitHub Stats" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustansirNisar&layout=compact&theme=radical" width="40%" alt="Top Languages" />
 </p>
 
 ---
