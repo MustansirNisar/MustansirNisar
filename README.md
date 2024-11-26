@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Mustansir Nisar! 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/MustansirNisar"><img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=500&lines=Passionate+CS+Student;AI+and+ML+Enthusiast;Exploring+Data+Science" alt="Typing SVG" /></a>
+  <a href="https://github.com/MustansirNisar"><img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=500&lines=Educator;AI+and+ML+Explorer;Career+Counsellore" alt="Typing SVG" /></a>
 </p>
 
 ---
@@ -27,7 +27,7 @@
 ---
 
 ### 📫 How to reach me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shahid-ul-islam-13650998) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Shaddy9664) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mustansirnisar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/) 
 
       
 ---
@@ -64,33 +64,10 @@ I'm a **Computer Science** student with a strong focus on **Python**, **AI**, **
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
 </p>  
 
-### 🗃️ Database Management  
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/NoSQL-005571?style=for-the-badge&logo=mongodb&logoColor=white" alt="NoSQL" />
-</p>  
-
-### 🌐 Web Development  
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>  
-
 ### 🛠️ Version Control  
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
----
-
-### 🔧 Tools & Environments
-<p align="center">
-  <img src="https://img.shields.io/badge/Editor-VS_Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Editor-PyCharm-green?style=for-the-badge&logo=pycharm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tool-Git-black?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tool-Docker-blue?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
