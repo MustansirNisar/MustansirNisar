@@ -26,10 +26,8 @@
 
 ### 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mustansirnisar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/) 
-
       
 ---
-
 
 ### 🚀 About Me
 I'm a **Computer Science** student with a strong focus on **Python**, **AI**, **Machine Learning**, and **Data Science**. I’m passionate about creating impactful solutions through data-driven insights and advanced algorithms. Currently, I’m delving into **Deep Learning** and other innovative technologies that shape the future.
