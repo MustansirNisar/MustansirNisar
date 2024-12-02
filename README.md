@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Mustansir Nisar! 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/MustansirNisar"><img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=500&lines=Educator;AI+and+ML+Explorer;Career+Counsellore" alt="Typing SVG" /></a>
+  <a href="https://github.com/MustansirNisar"><img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=500&lines=Educator;AI+and+ML+Explorer;Career+Counsellor" alt="Typing SVG" /></a>
 </p>
 
 ---
