@@ -30,7 +30,7 @@
 ---
 
 ### 🚀 About Me
-I'm a **Computer Science** student with a strong focus on **Python**, **AI**, **Machine Learning**, and **Data Science**. I’m passionate about creating impactful solutions through data-driven insights and advanced algorithms. Currently, I’m delving into **Deep Learning** and other innovative technologies that shape the future.
+I'm a **Front-End Developer** and **Trainer** with a passion for creating clean, responsive, and user-friendly web interfaces. Constantly learning and exploring technologies like **JavaScript**, **Python**, and **AI/ML**, I thrive on building innovative projects and collaborating with others to bring ideas to life.
 
 ---
 
