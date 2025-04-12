@@ -75,7 +75,7 @@ I'm a **Front-End Developer** and **Trainer** with a passion for creating clean,
 
 ---
 
-### ⚡ Fun Fact:
+
 When I'm not coding, you can find me exploring the latest in AI research or gaming 🎮!
 
 ---
