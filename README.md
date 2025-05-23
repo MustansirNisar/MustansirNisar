@@ -29,7 +29,7 @@
 ---
 
 ### 🚀 About Me
-I'm a **Front-End Developer** and **Trainer** with a passion for creating clean, responsive, and user-friendly web interfaces. Constantly learning and exploring technologies like **JavaScript**, **Python**, and **AI/ML**, I thrive on building innovative projects and collaborating with others to bring ideas to life.
+I'm a **Full Stack Developer** and **Trainer** with a passion for creating clean, responsive, and user-friendly web interfaces. Constantly learning and exploring technologies like **JavaScript**, **Python**, and **AI/ML**, I thrive on building innovative projects and collaborating with others to bring ideas to life.
 
 ---
 
