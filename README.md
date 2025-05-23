@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Mustansir Nisar! 👋</h1>
+<h1 align="center">Hi there, I'm Mustansir Nisar! </h1>
 <p align="center">
   <a href="https://github.com/MustansirNisar"><img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Coding+Tutor+and+Trainer;Freelancer+in+Web+Development;AI+and+ML+Explorer" alt="Typing SVG" /></a>
 </p>
