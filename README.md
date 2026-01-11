@@ -122,11 +122,11 @@ const mustansir: Developer = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🏆 Achievements & Recognition
+<!--## 🏆 Achievements & Recognition
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MustansirNisar&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
-</div>
+</div> -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
