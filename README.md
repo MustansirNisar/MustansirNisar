@@ -179,7 +179,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=MustansirNisar&label=Profile%20Views&color=F85D7F&style=for-the-badge" alt="Profile Views"/>
+<!-- <img src="https://komarev.com/ghpvc/?username=MustansirNisar&label=Profile%20Views&color=F85D7F&style=for-the-badge" alt="Profile Views"/> -->
 
 </div>
 
