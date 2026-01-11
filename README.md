@@ -157,16 +157,16 @@ const mustansir: Developer = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💡 Philosophy & Approach
+<!--## 💡 Philosophy & Approach
 
-> **"Write code that speaks for itself, build systems that scale effortlessly, and create solutions that matter."**
+ > **"Write code that speaks for itself, build systems that scale effortlessly, and create solutions that matter."**
 
 - 🎯 **Quality Over Quantity**: Clean, maintainable code is always the priority
 - 🚀 **Continuous Innovation**: Staying ahead with emerging technologies
 - 🤝 **Collaborative Growth**: Sharing knowledge and learning from the community
-- 💪 **Problem-Solving**: Every challenge is an opportunity to innovate
+- 💪 **Problem-Solving**: Every challenge is an opportunity to innovate-->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 ## 📫 Let's Connect & Collaborate
 
