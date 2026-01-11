@@ -23,15 +23,14 @@
 
 ```typescript
 const mustansir: Developer = {
-  title: "Full Stack Developer & AI/ML Engineer",
-  location: "Jammu, India 🇮🇳",
+  title: "Full Stack Developer & AI/ML Explorer",
+  location: "Kashmir, India 🇮🇳",
   experience: {
     webDevelopment: "Building responsive, scalable applications",
     aiML: "Implementing intelligent solutions with ML/DL",
     teaching: "Mentoring next-generation developers"
   },
-  currentMission: "Bridging the gap between innovative tech and real-world impact",
-  lifePhilosophy: "Code with purpose, learn continuously, share generously"
+  currentMission: "Bridging the gap between innovative tech and real-world impact"
 };
 ```
 
