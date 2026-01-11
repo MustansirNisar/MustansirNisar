@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mustansir%20Nisar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mustansir%20Nisar&fontSize=42&fontColor=fff&animation=constant&fontAlignY=32" />
 
-<h3>Full Stack Developer | AI/ML Engineer | Technical Trainer</h3>
+<h3>Full Stack Developer | AI/ML Explorer | Technical Trainer</h3>
 
 <p>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Crafting+Scalable+Web+Applications;Exploring+Artificial+Intelligence;Building+the+Future+with+Code;Empowering+Developers+Through+Education" alt="Typing SVG" /></a>
