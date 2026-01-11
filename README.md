@@ -174,9 +174,9 @@ const mustansir: Developer = {
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
 
-**📧 Email:** [your.email@example.com](mailto:your.email@example.com)  
+**📧 Email:** [mustansirnissar@gmail.com](mailto:mustansirnissar@gmail.com)  
 **💼 LinkedIn:** [mustansirnisar](https://linkedin.com/in/mustansirnisar)  
-**🐦 Twitter:** [@yourusername](https://x.com/)
+<!--**🐦 Twitter:** [@yourusername](https://x.com/)-->
 
 <br/>
 
