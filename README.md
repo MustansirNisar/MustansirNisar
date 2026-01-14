@@ -223,7 +223,7 @@ const mustansir: Developer = {
     </td>
     <td align="center">
       <a href="https://twitter.com/">
-        <img src="https://img.icons8.com/fluency/96/000000/x.png" width="60" alt="Twitter"/>
+        <img src="https://img.icons8.com/fluency/96/000000/twitterx.png" width="60" alt="Twitter"/>
       </a>
       <!-- <br><b>Follow on Twitter</b> -->
     </td>
