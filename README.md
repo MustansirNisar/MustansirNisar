@@ -107,16 +107,25 @@ const mustansir: Developer = {
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MustansirNisar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&rank_icon=github" alt="GitHub Stats"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=MustansirNisar&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F&dates=FFFFFF" alt="GitHub Streak"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustansirNisar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MustansirNisar&theme=radical&utcOffset=5.5" alt="Productive Time"/>
+<a href="https://github.com/MustansirNisar">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MustansirNisar&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustansirNisar&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+</a>
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MustansirNisar&custom_title=Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area_color=F85D7F&area=true&hide_border=true" width="98%" alt="Contribution Graph"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MustansirNisar&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MustansirNisar&theme=react-dark&bg_color=20232a&hide_border=true&line=61dafb&color=61dafb" width="100%" alt="Contribution Graph"/>
+</div>
+
+<div align="center">
+  
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MustansirNisar&theme=radical)](https://github.com/MustansirNisar)
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
