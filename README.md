@@ -226,7 +226,7 @@ const mustansir: Developer = {
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=MustansirNisar&label=Profile%20Views&color=f85d7f&style=for-the-badge" alt="Profile Views"/>
+<!-- <img src="https://komarev.com/ghpvc/?username=MustansirNisar&label=Profile%20Views&color=f85d7f&style=for-the-badge" alt="Profile Views"/> -->
 
 </div>
 
