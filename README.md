@@ -195,12 +195,12 @@ const mustansir: Developer = {
   <a href="https://linkedin.com/in/mustansirnisar">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/">
+  <!-- <a href="https://twitter.com/">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
-  </a>
+  </a> -->
 </p>
 
 <br>
