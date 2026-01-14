@@ -210,7 +210,7 @@ const mustansir: Developer = {
 <table>
   <tr>
     <td align="center">
-      <a href="mailto:mustansirnissar@gmail.com" style="text-decoration=none">
+      <a href="mailto:mustansirnissar@gmail.com">
         <img src="https://img.icons8.com/fluency/96/000000/gmail-new.png" width="60" alt="Email"/>
         <br><b>Email Me</b>
       </a>
