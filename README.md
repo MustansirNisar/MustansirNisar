@@ -178,23 +178,42 @@ const mustansir: Developer = {
 
 ## 📫 Let's Connect & Collaborate
 
-<div align="center">
-
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
 
-**📧 Email:** [mustansirnissar@gmail.com](mailto:mustansirnissar@gmail.com)  
-**💼 LinkedIn:** [mustansirnisar](https://linkedin.com/in/mustansirnisar)  
-<!--**🐦 Twitter:** [@yourusername](https://x.com/)-->
 
-<br/>
+<table>
+  <tr>
+    <td align="center">
+      <a href="mailto:mustansirnissar@gmail.com">
+        <img src="https://img.icons8.com/fluency/96/000000/gmail-new.png" width="60" alt="Email"/>
+        <br><b>Email Me</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://linkedin.com/in/mustansirnisar">
+        <img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="60" alt="LinkedIn"/>
+        <br><b>Connect on LinkedIn</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://twitter.com/">
+        <img src="https://img.icons8.com/fluency/96/000000/twitter.png" width="60" alt="Twitter"/>
+        <br><b>Follow on Twitter</b>
+      </a>
+    </td>
+  </tr>
+</table>
 
-<!-- <img src="https://komarev.com/ghpvc/?username=MustansirNisar&label=Profile%20Views&color=F85D7F&style=for-the-badge" alt="Profile Views"/> -->
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=MustansirNisar&label=Profile%20Views&color=f85d7f&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
 <div align="center">
+
   
 ### ⭐ Show some love by starring repositories you find interesting!
 
