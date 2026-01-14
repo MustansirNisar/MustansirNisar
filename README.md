@@ -210,8 +210,8 @@ const mustansir: Developer = {
 <table>
   <tr>
     <td align="center">
-      <a href="mailto:mustansirnissar@gmail.com">
-        <img src="https://img.icons8.com/fluency/96/000000/gmail-new.png" text-decoration = "none" width="60" alt="Email"/>
+      <a href="mailto:mustansirnissar@gmail.com" text-decoration = "none">
+        <img src="https://img.icons8.com/fluency/96/000000/gmail-new.png" width="60" alt="Email"/>
         <br><b>Email Me</b>
       </a>
     </td>
