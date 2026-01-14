@@ -212,20 +212,20 @@ const mustansir: Developer = {
     <td align="center">
       <a href="mailto:mustansirnissar@gmail.com">
         <img src="https://img.icons8.com/fluency/96/000000/gmail-new.png" width="60" alt="Email"/>
-        <br><b>Email Me</b>
       </a>
+      <br><b>Email Me</b>
     </td>
     <td align="center">
       <a href="https://linkedin.com/in/mustansirnisar">
         <img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="60" alt="LinkedIn"/>
-        <br><b>Connect on LinkedIn</b>
       </a>
+      <br><b>Connect on LinkedIn</b>
     </td>
     <td align="center">
       <a href="https://twitter.com/">
         <img src="https://img.icons8.com/fluency/96/000000/twitter.png" width="60" alt="Twitter"/>
-        <br><b>Follow on Twitter</b>
       </a>
+      <br><b>Follow on Twitter</b>
     </td>
   </tr>
 </table>
