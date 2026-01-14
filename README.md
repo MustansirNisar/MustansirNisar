@@ -38,8 +38,6 @@ const mustansir: Developer = {
 
 ## 🛠️ Technology Arsenal
 
-## 🛠️ Technology Arsenal
-
 <details open>
 <summary><b>💻 Programming Languages</b></summary>
 <br>
