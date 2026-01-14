@@ -213,19 +213,19 @@ const mustansir: Developer = {
       <a href="mailto:mustansirnissar@gmail.com">
         <img src="https://img.icons8.com/fluency/96/000000/gmail-new.png" width="60" alt="Email"/>
       </a>
-      <br><b>Email Me</b>
+      <!-- <br><b>Email Me</b> -->
     </td>
     <td align="center">
       <a href="https://linkedin.com/in/mustansirnisar">
         <img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="60" alt="LinkedIn"/>
       </a>
-      <br><b>Connect on LinkedIn</b>
+      <!-- <br><b>Connect on LinkedIn</b> -->
     </td>
     <td align="center">
       <a href="https://twitter.com/">
-        <img src="https://img.icons8.com/fluency/96/000000/twitter.png" width="60" alt="Twitter"/>
+        <img src="https://img.icons8.com/fluency/96/000000/x.png" width="60" alt="Twitter"/>
       </a>
-      <br><b>Follow on Twitter</b>
+      <!-- <br><b>Follow on Twitter</b> -->
     </td>
   </tr>
 </table>
