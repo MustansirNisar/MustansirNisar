@@ -130,7 +130,6 @@ const mustansir: Developer = {
 
 <div align="center">
   
-<!--[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MustansirNisar&theme=radical)](https://github.com/MustansirNisar)-->
 
 </div>
 
